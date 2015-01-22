@@ -10,6 +10,7 @@ Controller | متحكّم
 Cookie | كعكة
 Deployment | نشر
 Encryption | تعمية
+Footer | تذييل
 Function | دالة
 Hashing | تجزئة
 Header | ترويسة
@@ -17,6 +18,7 @@ Indexing | فهرسة
 Index | فهرس
 Inheritance | وراثة
 Interface   | واجهة | مدخل
+JavaScript | جافاسكريبت | دون فراغ في المنتصف
 Method | وظيفة
 Minification | تقليص | اختصار، اختزال
 Mixin | خليط | تحتاج مراجعة

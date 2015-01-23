@@ -28,6 +28,7 @@ JavaScript | جافاسكريبت | دون فراغ في المنتصف
 Method | وظيفة
 Minification | تقليص | اختصار، اختزال
 Mixin | خليط | تحتاج مراجعة
+Opacity | شفافية
 Positioning | تحديد الموقع
 Prototype | نموذج | أنموذج
 Repository | مستودع
@@ -45,3 +46,4 @@ Server | خادوم
 Session | جلسة
 Template | قالب
 Templating | قولبة
+Transform | تحويل

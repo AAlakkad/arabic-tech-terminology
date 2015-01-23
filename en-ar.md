@@ -17,7 +17,7 @@ DOM | ؟
 Encryption | تعمية
 Footer | تذييل
 Function | دالة
-GPU | ؟
+GPU | وحدة معالجة الرسوم
 Hashing | تجزئة
 Header | ترويسة
 Indexing | فهرسة

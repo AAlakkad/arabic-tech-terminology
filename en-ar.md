@@ -33,7 +33,7 @@ Repository | مستودع
 Request Body | متن الطلب
 Request | طلب
 Response Body | متن الجواب
-Request Animation Frame (RAF) | ؟
+Request Animation Frame (RAF) | طلب إطار الحركة
 Response | جواب
 Return      | إعادة/إرجاع
 Rotation | تدوير

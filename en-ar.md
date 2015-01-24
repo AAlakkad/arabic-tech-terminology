@@ -25,6 +25,7 @@ Index | فهرس
 Inheritance | وراثة
 Interface   | واجهة | مدخل
 JavaScript | جافاسكريبت | دون فراغ في المنتصف
+Layout | تنسيق
 Method | وظيفة
 Minification | تقليص | اختصار، اختزال
 Mixin | خليط | تحتاج مراجعة

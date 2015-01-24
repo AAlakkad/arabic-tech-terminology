@@ -44,6 +44,7 @@ Routing | توجيه
 Script      | نص برمجيّ | مخطوطة برمجية
 Server | خادوم
 Session | جلسة
+Style | نسق
 Template | قالب
 Templating | قولبة
 Transform | تحويل
